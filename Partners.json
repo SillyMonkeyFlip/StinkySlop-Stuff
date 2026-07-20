@@ -1,0 +1,16 @@
+{
+  "partners": [
+    {
+      "name": "MonkGame",
+      "discord": "https://discord.gg/jVHQcjaWZ5",
+      "creator": "CodeHutDevelopment",
+      "image": "https://raw.githubusercontent.com/SillyMonkeyFlip/StinkySlop-Stuff/refs/heads/main/MonkGame.webp"
+    },
+    {
+      "name": "Jax's Fortress'",
+      "discord": "https://discord.gg/2Ps3yTd2WX",
+      "creator": "JaxCanCode",
+      "image": "https://raw.githubusercontent.com/SillyMonkeyFlip/StinkySlop-Stuff/refs/heads/main/Jax.png"
+    }
+  ]
+}
